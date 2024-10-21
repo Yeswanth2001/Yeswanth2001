@@ -5,7 +5,7 @@
 
 ---
 ### 👨 About Myself
-I'm a Software Engineer with over **2 years of experience** in backend development. I specialize in building scalable systems and developing RESTful web services. 
+I'm a Software Engineer with over **3 years of experience** in backend development. I specialize in building scalable systems and developing RESTful web services. 
 
 My expertise includes designing efficient database schemas, optimizing API endpoints for performance, implementing effective algorithms, and adhering to best practices to deliver high-quality software solutions.
 
